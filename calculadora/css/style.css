@@ -1,0 +1,17 @@
+.styleTable{
+    display: block;
+    position: absolute;
+    left: 43%;
+    top: 30%;
+}
+.mb-3{
+    position: absolute;
+    left: 43%;
+    top: 21%;
+    padding: 2px;
+    width: 215px;
+    border: 5px solid black;
+}
+#title1{
+    text-align: center;
+}
